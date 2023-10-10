@@ -1,6 +1,5 @@
 # image_classification
-This project classifies the images of dogs and cats
+Developed a model to classify the images of dogs and cats using deep neural network.
 
 
 
-it works
